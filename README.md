@@ -10,5 +10,6 @@
    
 
 - Projects of Front End Mentor :
-- 1. qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
-- 2. News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
+- 1. News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
+- 2. qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
+
